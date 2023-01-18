@@ -1,1 +1,2 @@
 # movie-viewership-forecasting
+The dataset for the project includes more than 4000 movies, with about 50 features including movie genres, awards, IMDB ratings, etc. Apart from implementing more advanced data-preprocessing methods such as One Hot Encoding to process categorical variables and standardization to scale the data, I also implemented ML models to forecast movie viewership per day, such as OLS, Lasso, Ridge, and XGBoost.
